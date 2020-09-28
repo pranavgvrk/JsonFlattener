@@ -1,16 +1,16 @@
 # JsonFlattener
 Simple JsonFlattener and tool to get all values of a given key
 
-NAME
-    jsonFlattener
+    NAME
+        jsonFlattener
 
-DESCRIPTION
-    JSON Flattener to flatten json with the given key separator.
-    Get the value of a key with
+    DESCRIPTION
+        JSON Flattener to flatten json with the given key separator.
+        Get the value of a key with
 
-CLASSES
-    builtins.object
-        JSONFlattener
+    CLASSES
+        builtins.object
+            JSONFlattener
 
     class JSONFlattener(builtins.object)
      |  JSONFlattener(data: dict)
